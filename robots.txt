@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.defesasolidaria.com.br/sitemap.xml
